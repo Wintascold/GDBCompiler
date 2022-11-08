@@ -23,7 +23,7 @@
 
 #---------------------------------Import system modules-----------------#
 
-#Deliberate change to test github
+#Deliberate change to test github - 2nd modify
 
 import sys, string, os, arcpy, arcgisscripting, shutil
 
