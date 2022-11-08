@@ -1,2 +1,2 @@
 # GDBCompiler
-Compiles multiple geodatabases together
+Compiles multiple GRI geodatabases together and inserts a common boundary
